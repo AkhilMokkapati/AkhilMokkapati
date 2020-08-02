@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/rushabh31/rushabh31.github.io/blob/build/src/assests/images/rushabh-img.png" alt="rushabh patel" width="16%">
+  <img src="https://github.com/rushabh31/rushabh31.github.io/blob/build/src/assests/images/rushabh-img.png" alt="mak8844" width="16%">
   <br><br>
   <samp>
-    <img align="center" src="https://github.com/rushabh31/rushabh31/blob/master/assets/welcome.gif" alt="rushabh patel">
+    <img align="center" src="https://github.com/rushabh31/rushabh31/blob/master/assets/welcome.gif" alt="mak8844">
     <br><br>
     I believe never stop learning because life never stops teaching :grin: 
     <br><br>
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Rushabh's GitHub States](https://github-readme-stats.vercel.app/api?username=rushabh31&show_icons=true&theme=dark)
+![Rushabh's GitHub States](https://github-readme-stats.vercel.app/api?username=mak8844&show_icons=true&theme=dark)
 
 </div>
 
