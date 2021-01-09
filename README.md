@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=medium">
   </a> &nbsp; 
   
-  <a href="href="https://www.hackerrank.com/akhilmokkapati">
+  <a href="https://www.hackerrank.com/akhilmokkapati">
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=hackerrank">
   </a> &nbsp; 
   
   <a href="https://www.instagram.com/akhilmokkapati/">
-    <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=instagram">
   </a> &nbsp; 
   
    <a href="https://twitter.com/AKHILMOKKAPATI">
