@@ -1,6 +1,29 @@
 ## Hi there, I'm [Akhil Mokkapati!](https://www.linkedin.com/in/akhilmokkapati/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://birajparikh16.github.io">
+<p align="left"> 
+ <img src=https://komarev.com/ghpvc/?username=AkhilMokkapati alt=AkhilMokkapati/> 
+ &nbsp; 
+ 
+  
+  <a href="https://www.linkedin.com/in/akhilmokkapati/">
+    <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=linkedin">
+  </a> &nbsp;  
+
+  <a href="https://medium.com/@akhilmokkapati/">
+    <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=medium">
+  </a> &nbsp; 
+  
+  
+  
+   <a href="https://twitter.com/rparvat2277">
+    <img src="https://img.shields.io/twitter/url?label=Rutvik%20Parvataneni&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
+  </a>&nbsp; 
+
+  
+</p>
+
+
+<a href="https://AkhilMokkapati.github.io">
   <img align="left" alt="Akhil's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://www.linkedin.com/in/akhilmokkapati/">
