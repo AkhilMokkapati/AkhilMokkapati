@@ -1,25 +1,25 @@
-## Hi there, I'm [Biraj Parikh!](https://linkedin.com/in/biraj-parikh) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there, I'm [Akhil Mokkapati!](https://www.linkedin.com/in/akhilmokkapati/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://birajparikh16.github.io">
-  <img align="left" alt="Biraj's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img align="left" alt="Akhil's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://www.linkedin.com/in/biraj-parikh/">
-  <img align="left" alt="Biraj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/akhilmokkapati/">
+  <img align="left" alt="Akhil's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/birajparikh16">
-  <img align="left" alt="Biraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/AkhilMokkapati">
+  <img align="left" alt="Akhil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://medium.com/@birajparikh">
-  <img align="left" alt="Biraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://medium.com/@akhilmokkapati">
+  <img align="left" alt="Akhil's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.hackerrank.com/birajparikh16">
-  <img align="left" alt="Biraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://www.hackerrank.com/akhilmokkapati">
+  <img align="left" alt="Akhil's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://www.instagram.com/birajparikh16/">
-  <img align="left" alt="Biraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
+<a href="https://www.instagram.com/akhilmokkapati/">
+  <img align="left" alt="Akhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/birajparikh16">
-  <img align="left" alt="Biraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/AKHILMOKKAPATI">
+  <img align="left" alt="Akhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <br />
