@@ -22,7 +22,7 @@
   </a> &nbsp; 
   
    <a href="https://twitter.com/AKHILMOKKAPATI">
-    <img src="https://img.shields.io/twitter/url?label=Akhil%Mokkapati&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
+    <img src="https://img.shields.io/twitter/url?label=Akhil Mokkapati&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
   </a>&nbsp; 
 
 </p>
