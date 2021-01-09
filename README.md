@@ -13,37 +13,19 @@
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=medium">
   </a> &nbsp; 
   
+  <a href="href="https://www.hackerrank.com/akhilmokkapati">
+    <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=hackerrank">
+  </a> &nbsp; 
   
+  <a href="https://www.instagram.com/akhilmokkapati/">
+    <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=medium">
+  </a> &nbsp; 
   
-   <a href="https://twitter.com/rparvat2277">
-    <img src="https://img.shields.io/twitter/url?label=Rutvik%20Parvataneni&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
+   <a href="https://twitter.com/AKHILMOKKAPATI">
+    <img src="https://img.shields.io/twitter/url?label=Akhil%Mokkapati&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
   </a>&nbsp; 
 
-  
 </p>
-
-
-<a href="https://AkhilMokkapati.github.io">
-  <img align="left" alt="Akhil's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-<a href="https://www.linkedin.com/in/akhilmokkapati/">
-  <img align="left" alt="Akhil's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AkhilMokkapati">
-  <img align="left" alt="Akhil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://medium.com/@akhilmokkapati">
-  <img align="left" alt="Akhil's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.hackerrank.com/akhilmokkapati">
-  <img align="left" alt="Akhil's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.instagram.com/akhilmokkapati/">
-  <img align="left" alt="Akhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/AKHILMOKKAPATI">
-  <img align="left" alt="Akhil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
 <br />
 <br/>
