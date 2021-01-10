@@ -8,15 +8,15 @@
   <a href="https://www.linkedin.com/in/akhilmokkapati/">
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=linkedin">
   </a> &nbsp;  
-
+<!-- 
   <a href="https://medium.com/@akhilmokkapati/">
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=medium">
   </a> &nbsp; 
   
   <a href="https://www.hackerrank.com/akhilmokkapati">
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=hackerrank">
-  </a> &nbsp; 
-  
+  </a> &nbsp;  
+ -->  
   <a href="https://www.instagram.com/akhilmokkapati/">
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=instagram">
   </a> &nbsp; 
