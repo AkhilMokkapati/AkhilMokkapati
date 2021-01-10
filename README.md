@@ -33,7 +33,7 @@
 📈 &nbsp; 3+ years of professional experience in building machine learning solutions and scalable data-pipelines handling large scale datasets.\
 🌱 &nbsp;I'm on track for learning more about Deep Learnign, Data Engineering, and Cloud Architecture.\
 ⚡ &nbsp; Football, Cricket, Tennis (💗).\
-✉️ &nbsp;You can contact me an email at akhilmokkapati@gmail.com.\
+✉️ &nbsp;You can contact me an email at akhilmokkapati@gmail.com.
 <!-- 
 📄 &nbsp;Please have a look at my [Résumé](https://birajparikh16.github.io/Biraj-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 -->
