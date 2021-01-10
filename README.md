@@ -29,49 +29,50 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a 𝙂𝙤𝙤𝙜𝙡𝙚 𝘾𝙡𝙤𝙪𝙙 𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙚𝙙 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.\
-🎓 &nbsp;I'm a graduate student pursuing a Master’s Degree in Data Science at Indiana University Bloomington and I will be graduating next year in May 2021.\
-📈 &nbsp;Almost 2 years of hands-on working experience in building scalable data-pipeline for ingesting and analyzing large scale datasets.\
-🌱 &nbsp;I'm on track for learning more about Data Engineering, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I go out to explore new places and play Tennis.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at birajparikh16@gmail.com! I'll try to respond as soon as I can.\
+🎓 &nbsp; A Data Science Graduate Student at Indiana University Bloomington (May-2021).\
+📈 &nbsp; 3+ years of professional experience in building machine learning solutions and scalable data-pipelines handling large scale datasets.\
+🌱 &nbsp;I'm on track for learning more about Deep Learnign, Data Engineering, and Cloud Architecture.\
+⚡ &nbsp; Football, Cricket, Tennis (💗).\
+✉️ &nbsp;You can contact me an email at akhilmokkapati@gmail.com .\
+<!-- 
 📄 &nbsp;Please have a look at my [Résumé](https://birajparikh16.github.io/Biraj-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
+-->
 
 𝗪𝗛𝗔𝗧 𝗡𝗘𝗫𝗧?
 
 ‾‾‾‾‾‾‾‾‾
 <br />
-With the blend of industry experience along with technical skills I developed during my Master’s Degree, I am keen to develop products that impact on a large scale. 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙁𝙪𝙡𝙡-𝙏𝙞𝙢𝙚 𝙟𝙤𝙗 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙞𝙚𝙨 𝙖𝙣𝙙 𝙄 𝙖𝙢 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙧𝙤𝙡𝙚𝙨 🎯
+𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙁𝙪𝙡𝙡-𝙏𝙞𝙢𝙚 𝙟𝙤𝙗 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙞𝙚𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙧𝙤𝙡𝙚𝙨 🎯
 
 ### 🛠 &nbsp;Tech Stack
 
-► Programming Languages: Python, R, PyTorch, Scala, PySpark, SQL, shell-scripting.\
-► Databases: MySQL, PostgreSQL, MongoDB (NoSQL), Cassandra, Amazon Redshift.\
+► Programming Languages: Python, R, PyTorch, PySpark, SQL .\
+► Databases: MySQL, PostgreSQL, MongoDB (NoSQL), Amazon Redshift.\
 ► Machine Learning: Classification, Regression, Clustering, Neural Networks, Ensemble Learning, Forecasting, Dimension Reduction, Predictive modeling, CNN, GAN.\
 ► Libraries: Pandas, Numpy, Scikit-learn, NLTK, Requests, Matplotlib, tidyverse, ggplot2, dplyr, Tensorflow, Keras, Beautiful Soup.\
-► Framework/Tools: Apache Spark, Spark Streaming, Hadoop, HBase, Hive, Nifi, Apache Kafka, Apache Airflow, Tableau, Git, GitHub, Bash, MS Office, IntelliJ, Jupyter Notebooks, Flask, FASTAPI.\
-► DevOps Tools: Docker, Kubernetes.\
+► Framework/Tools: Hadoop, Tableau, Git, GitHub, Bash, MS Office, Jupyter Notebooks, Flask, FASTAPI.\
 ► Cloud Technologies: Amazon Web Service (AWS), Google Cloud Platform (GCP).\
 
-### 📕 Latest Blog Posts
+### Languages and Tools:
 
-<!-- BLOG-POST-LIST:START -->
-- [What is Central Limit theorem (CLT)?](https://medium.com/@birajparikh/what-is-central-limit-theorem-clt-db3679433dcb)
-- [Central Limit Theorem — A Real Life Case Study](https://medium.com/greyatom/central-limit-theorem-a-real-life-case-study-da079b4ba2fc)
-- [Decision tree Intuition](https://medium.com/greyatom/decision-tree-intuition-a38669005cb7)
-<!-- BLOG-POST-LIST:END -->
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][resources]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][resources]
+[<img align="left" alt="R" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][resources]
+[<img align="left" alt="MatLab" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][resources]
+[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][resources]
+[<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][resources]
+[<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/aws/aws.png" />][resources]
+[<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][resources]
+[<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][resources]
+[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][resources]
+[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][resources]
+[<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][resources]
+[<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][resources]
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/birajparikh16/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=birajparikh16&show_icons=true&include_all_commits=true&" alt="Biraj's github stats" />
+<a href="https://github.com/AkhilMokkapati/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkhilMokkapati&show_icons=true&include_all_commits=true&" alt="Biraj's github stats" />
 </a>
 
 
-[website]: https://birajparikh16.github.io
-[linkedin]: https://www.linkedin.com/in/biraj-parikh/
-[medium]: https://medium.com/@birajparikh
-[github]: https://github.com/birajparikh16
-[twitter]: https://twitter.com/birajparikh16
-[instagram]: https://www.instagram.com/birajparikh16/
