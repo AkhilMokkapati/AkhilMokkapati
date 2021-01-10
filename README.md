@@ -12,7 +12,7 @@
   <a href="https://medium.com/@akhilmokkapati/">
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=medium">
   </a> &nbsp; 
-  
+--  
   <a href="https://www.hackerrank.com/akhilmokkapati">
     <img src="https://img.shields.io/badge/Akhil-Mokkapati-blue?style=flat&logo=hackerrank">
   </a> &nbsp;  
@@ -34,14 +34,10 @@
 🌱 &nbsp;I'm on track for learning more about Deep Learnign, Data Engineering, and Cloud Architecture.\
 ⚡ &nbsp; Football, Cricket, Tennis (💗).\
 ✉️ &nbsp;You can contact me an email at akhilmokkapati@gmail.com
-<!-- 
-📄 &nbsp;Please have a look at my [Résumé](https://birajparikh16.github.io/Biraj-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
--->
 
 𝗪𝗛𝗔𝗧 𝗡𝗘𝗫𝗧?
 
 ‾‾‾‾‾‾‾‾‾
-<br />
 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙁𝙪𝙡𝙡-𝙏𝙞𝙢𝙚 𝙟𝙤𝙗 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙞𝙚𝙨 𝙖𝙣𝙙 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙣𝙙 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙧𝙤𝙡𝙚𝙨 🎯
 
 ### 🛠 &nbsp;Tech Stack
