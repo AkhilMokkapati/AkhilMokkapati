@@ -51,7 +51,7 @@
 ► Machine Learning: Classification, Regression, Clustering, Neural Networks, Ensemble Learning, Forecasting, Dimension Reduction, Predictive modeling, CNN, GAN.\
 ► Libraries: Pandas, Numpy, Scikit-learn, NLTK, Requests, Matplotlib, tidyverse, ggplot2, dplyr, Tensorflow, Keras, Beautiful Soup.\
 ► Framework/Tools: Hadoop, Tableau, Git, GitHub, Bash, MS Office, Jupyter Notebooks, Flask, FASTAPI.\
-► Cloud Technologies: Amazon Web Service (AWS), Google Cloud Platform (GCP).\
+► Cloud Technologies: Amazon Web Service (AWS), Google Cloud Platform (GCP).
 
 ### Languages and Tools:
 
